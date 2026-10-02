@@ -1,0 +1,6 @@
+/.env
+/.output.log
+/.venv
+/example_bot.py
+/gettingstarted.txt
+/study.db
